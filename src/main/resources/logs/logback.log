@@ -1,0 +1,133 @@
+ 23:37:50 [main] INFO  b.t.c.aspect.MenuLoggingAspect - ~~~~~~~~~~~~~~~~~~~CALCULATOR~~~~~~~~~~~~~~~~~~~
+ 23:37:50 [main] INFO  b.t.calculator.view.menu.MainMenu - 1. Calculate
+ 23:37:50 [main] INFO  b.t.calculator.view.menu.MainMenu - 2. History
+ 23:37:50 [main] INFO  b.t.calculator.view.menu.MainMenu - 3. Exit
+ 23:37:50 [main] INFO  b.t.c.aspect.MenuLoggingAspect - ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 23:37:50 [main] INFO  b.t.c.aspect.MenuLoggingAspect - Enter option:
+INPUT 23:37:59 [main] INFO  b.t.c.aspect.MenuLoggingAspect - User input: 3301
+ 23:37:59 [main] WARN  b.t.c.service.MenuServiceImpl - Wrong input! Try again.
+ 23:37:59 [main] INFO  b.t.c.aspect.MenuLoggingAspect - ~~~~~~~~~~~~~~~~~~~CALCULATOR~~~~~~~~~~~~~~~~~~~
+ 23:37:59 [main] INFO  b.t.calculator.view.menu.MainMenu - 1. Calculate
+ 23:37:59 [main] INFO  b.t.calculator.view.menu.MainMenu - 2. History
+ 23:37:59 [main] INFO  b.t.calculator.view.menu.MainMenu - 3. Exit
+ 23:37:59 [main] INFO  b.t.c.aspect.MenuLoggingAspect - ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 23:37:59 [main] INFO  b.t.c.aspect.MenuLoggingAspect - Enter option:
+INPUT 23:38:06 [main] INFO  b.t.c.aspect.MenuLoggingAspect - User input: 1
+ 23:38:06 [main] INFO  b.t.c.aspect.MenuLoggingAspect - ~~~~~~~~~~~~~~~~~~~CALCULATOR~~~~~~~~~~~~~~~~~~~
+ 23:38:06 [main] INFO  b.t.c.view.menu.CalculateMenu - 1. Add
+ 23:38:06 [main] INFO  b.t.c.view.menu.CalculateMenu - 2. Subtract
+ 23:38:06 [main] INFO  b.t.c.view.menu.CalculateMenu - 3. Multiply
+ 23:38:06 [main] INFO  b.t.c.view.menu.CalculateMenu - 4. Divide
+ 23:38:06 [main] INFO  b.t.c.view.menu.CalculateMenu - 5. Power
+ 23:38:06 [main] INFO  b.t.c.view.menu.CalculateMenu - 6. Back
+ 23:38:06 [main] INFO  b.t.c.view.menu.CalculateMenu - 7. Exit
+ 23:38:06 [main] INFO  b.t.c.aspect.MenuLoggingAspect - ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 23:38:06 [main] INFO  b.t.c.aspect.MenuLoggingAspect - Enter option:
+INPUT 23:38:10 [main] INFO  b.t.c.aspect.MenuLoggingAspect - User input: 1
+ 23:38:10 [main] INFO  b.t.c.aspect.MenuLoggingAspect - Enter real number:
+INPUT 23:38:15 [main] INFO  b.t.c.aspect.MenuLoggingAspect - User input: 13.123213
+ 23:38:15 [main] INFO  b.t.c.aspect.MenuLoggingAspect - Enter real number:
+INPUT 23:38:19 [main] INFO  b.t.c.aspect.MenuLoggingAspect - User input: 324.13232
+ 23:38:19 [main] INFO  b.t.c.aspect.MenuLoggingAspect - Operation was added to storage - [29.04.2022 23:38:19]: 13.123213 + 324.132320 = 337.255533
+ 23:38:19 [main] INFO  b.t.c.aspect.MenuLoggingAspect - ~~~~~~~~~~~~~~~~~~~CALCULATOR~~~~~~~~~~~~~~~~~~~
+ 23:38:19 [main] INFO  b.t.calculator.view.menu.MainMenu - 1. Calculate
+ 23:38:19 [main] INFO  b.t.calculator.view.menu.MainMenu - 2. History
+ 23:38:19 [main] INFO  b.t.calculator.view.menu.MainMenu - 3. Exit
+ 23:38:19 [main] INFO  b.t.c.aspect.MenuLoggingAspect - ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 23:38:19 [main] INFO  b.t.c.aspect.MenuLoggingAspect - Enter option:
+INPUT 23:38:24 [main] INFO  b.t.c.aspect.MenuLoggingAspect - User input: 1
+ 23:38:24 [main] INFO  b.t.c.aspect.MenuLoggingAspect - ~~~~~~~~~~~~~~~~~~~CALCULATOR~~~~~~~~~~~~~~~~~~~
+ 23:38:24 [main] INFO  b.t.c.view.menu.CalculateMenu - 1. Add
+ 23:38:24 [main] INFO  b.t.c.view.menu.CalculateMenu - 2. Subtract
+ 23:38:24 [main] INFO  b.t.c.view.menu.CalculateMenu - 3. Multiply
+ 23:38:24 [main] INFO  b.t.c.view.menu.CalculateMenu - 4. Divide
+ 23:38:24 [main] INFO  b.t.c.view.menu.CalculateMenu - 5. Power
+ 23:38:24 [main] INFO  b.t.c.view.menu.CalculateMenu - 6. Back
+ 23:38:24 [main] INFO  b.t.c.view.menu.CalculateMenu - 7. Exit
+ 23:38:24 [main] INFO  b.t.c.aspect.MenuLoggingAspect - ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 23:38:24 [main] INFO  b.t.c.aspect.MenuLoggingAspect - Enter option:
+INPUT 23:38:29 [main] INFO  b.t.c.aspect.MenuLoggingAspect - User input: 5
+ 23:38:29 [main] INFO  b.t.c.aspect.MenuLoggingAspect - Enter real number:
+INPUT 23:38:30 [main] INFO  b.t.c.aspect.MenuLoggingAspect - User input: 2
+ 23:38:30 [main] INFO  b.t.c.aspect.MenuLoggingAspect - Enter real number:
+INPUT 23:38:34 [main] INFO  b.t.c.aspect.MenuLoggingAspect - User input: 16
+ 23:38:34 [main] INFO  b.t.c.aspect.MenuLoggingAspect - Operation was added to storage - [29.04.2022 23:38:34]: 2.000000 ^ 16.000000 = 65536.000000
+ 23:38:34 [main] INFO  b.t.c.aspect.MenuLoggingAspect - ~~~~~~~~~~~~~~~~~~~CALCULATOR~~~~~~~~~~~~~~~~~~~
+ 23:38:34 [main] INFO  b.t.calculator.view.menu.MainMenu - 1. Calculate
+ 23:38:34 [main] INFO  b.t.calculator.view.menu.MainMenu - 2. History
+ 23:38:34 [main] INFO  b.t.calculator.view.menu.MainMenu - 3. Exit
+ 23:38:34 [main] INFO  b.t.c.aspect.MenuLoggingAspect - ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 23:38:34 [main] INFO  b.t.c.aspect.MenuLoggingAspect - Enter option:
+INPUT 23:38:40 [main] INFO  b.t.c.aspect.MenuLoggingAspect - User input: 1
+ 23:38:40 [main] INFO  b.t.c.aspect.MenuLoggingAspect - ~~~~~~~~~~~~~~~~~~~CALCULATOR~~~~~~~~~~~~~~~~~~~
+ 23:38:40 [main] INFO  b.t.c.view.menu.CalculateMenu - 1. Add
+ 23:38:40 [main] INFO  b.t.c.view.menu.CalculateMenu - 2. Subtract
+ 23:38:40 [main] INFO  b.t.c.view.menu.CalculateMenu - 3. Multiply
+ 23:38:40 [main] INFO  b.t.c.view.menu.CalculateMenu - 4. Divide
+ 23:38:40 [main] INFO  b.t.c.view.menu.CalculateMenu - 5. Power
+ 23:38:40 [main] INFO  b.t.c.view.menu.CalculateMenu - 6. Back
+ 23:38:40 [main] INFO  b.t.c.view.menu.CalculateMenu - 7. Exit
+ 23:38:40 [main] INFO  b.t.c.aspect.MenuLoggingAspect - ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 23:38:40 [main] INFO  b.t.c.aspect.MenuLoggingAspect - Enter option:
+INPUT 23:38:47 [main] INFO  b.t.c.aspect.MenuLoggingAspect - User input: 4
+ 23:38:47 [main] INFO  b.t.c.aspect.MenuLoggingAspect - Enter real number:
+INPUT 23:38:50 [main] INFO  b.t.c.aspect.MenuLoggingAspect - User input: 1333
+ 23:38:50 [main] INFO  b.t.c.aspect.MenuLoggingAspect - Enter real number:
+INPUT 23:38:54 [main] INFO  b.t.c.aspect.MenuLoggingAspect - User input: 123
+ 23:38:54 [main] INFO  b.t.c.aspect.MenuLoggingAspect - Operation was added to storage - [29.04.2022 23:38:54]: 1333.000000 / 123.000000 = 10.837398
+ 23:38:54 [main] INFO  b.t.c.aspect.MenuLoggingAspect - ~~~~~~~~~~~~~~~~~~~CALCULATOR~~~~~~~~~~~~~~~~~~~
+ 23:38:54 [main] INFO  b.t.calculator.view.menu.MainMenu - 1. Calculate
+ 23:38:54 [main] INFO  b.t.calculator.view.menu.MainMenu - 2. History
+ 23:38:54 [main] INFO  b.t.calculator.view.menu.MainMenu - 3. Exit
+ 23:38:54 [main] INFO  b.t.c.aspect.MenuLoggingAspect - ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 23:38:54 [main] INFO  b.t.c.aspect.MenuLoggingAspect - Enter option:
+INPUT 23:39:01 [main] INFO  b.t.c.aspect.MenuLoggingAspect - User input: 2
+ 23:39:01 [main] INFO  b.t.c.aspect.MenuLoggingAspect - ~~~~~~~~~~~~~~~~~~~CALCULATOR~~~~~~~~~~~~~~~~~~~
+ 23:39:01 [main] INFO  b.t.c.view.menu.HistoryMenu - 1. Show all
+ 23:39:01 [main] INFO  b.t.c.view.menu.HistoryMenu - 2. Clear
+ 23:39:01 [main] INFO  b.t.c.view.menu.HistoryMenu - 3. Back
+ 23:39:01 [main] INFO  b.t.c.view.menu.HistoryMenu - 4. Exit
+ 23:39:01 [main] INFO  b.t.c.aspect.MenuLoggingAspect - ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 23:39:01 [main] INFO  b.t.c.aspect.MenuLoggingAspect - Enter option:
+INPUT 23:39:04 [main] INFO  b.t.c.aspect.MenuLoggingAspect - User input: 1
+ 23:39:04 [main] INFO  b.t.c.aspect.MenuLoggingAspect - List of all operations in storage:
+ 23:39:04 [main] INFO  b.t.c.aspect.MenuLoggingAspect - [29.04.2022 23:38:19]: 13.123213 + 324.132320 = 337.255533
+ 23:39:04 [main] INFO  b.t.c.aspect.MenuLoggingAspect - [29.04.2022 23:38:34]: 2.000000 ^ 16.000000 = 65536.000000
+ 23:39:04 [main] INFO  b.t.c.aspect.MenuLoggingAspect - [29.04.2022 23:38:54]: 1333.000000 / 123.000000 = 10.837398
+ 23:39:04 [main] INFO  b.t.c.aspect.MenuLoggingAspect - End of list...
+ 23:39:04 [main] INFO  b.t.c.aspect.MenuLoggingAspect - ~~~~~~~~~~~~~~~~~~~CALCULATOR~~~~~~~~~~~~~~~~~~~
+ 23:39:04 [main] INFO  b.t.c.view.menu.HistoryMenu - 1. Show all
+ 23:39:04 [main] INFO  b.t.c.view.menu.HistoryMenu - 2. Clear
+ 23:39:04 [main] INFO  b.t.c.view.menu.HistoryMenu - 3. Back
+ 23:39:04 [main] INFO  b.t.c.view.menu.HistoryMenu - 4. Exit
+ 23:39:04 [main] INFO  b.t.c.aspect.MenuLoggingAspect - ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 23:39:04 [main] INFO  b.t.c.aspect.MenuLoggingAspect - Enter option:
+INPUT 23:39:06 [main] INFO  b.t.c.aspect.MenuLoggingAspect - User input: 2
+ 23:39:06 [main] WARN  b.t.c.aspect.MenuLoggingAspect - Request for clearing operation storage was received!
+ 23:39:06 [main] INFO  b.t.c.aspect.MenuLoggingAspect - Operation storage was cleared!
+ 23:39:06 [main] INFO  b.t.c.aspect.MenuLoggingAspect - ~~~~~~~~~~~~~~~~~~~CALCULATOR~~~~~~~~~~~~~~~~~~~
+ 23:39:06 [main] INFO  b.t.c.view.menu.HistoryMenu - 1. Show all
+ 23:39:06 [main] INFO  b.t.c.view.menu.HistoryMenu - 2. Clear
+ 23:39:06 [main] INFO  b.t.c.view.menu.HistoryMenu - 3. Back
+ 23:39:06 [main] INFO  b.t.c.view.menu.HistoryMenu - 4. Exit
+ 23:39:06 [main] INFO  b.t.c.aspect.MenuLoggingAspect - ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 23:39:06 [main] INFO  b.t.c.aspect.MenuLoggingAspect - Enter option:
+INPUT 23:39:10 [main] INFO  b.t.c.aspect.MenuLoggingAspect - User input: 1
+ 23:39:10 [main] INFO  b.t.c.aspect.MenuLoggingAspect - List of all operations in storage:
+ 23:39:10 [main] INFO  b.t.c.aspect.MenuLoggingAspect - End of list...
+ 23:39:10 [main] INFO  b.t.c.aspect.MenuLoggingAspect - ~~~~~~~~~~~~~~~~~~~CALCULATOR~~~~~~~~~~~~~~~~~~~
+ 23:39:10 [main] INFO  b.t.c.view.menu.HistoryMenu - 1. Show all
+ 23:39:10 [main] INFO  b.t.c.view.menu.HistoryMenu - 2. Clear
+ 23:39:10 [main] INFO  b.t.c.view.menu.HistoryMenu - 3. Back
+ 23:39:10 [main] INFO  b.t.c.view.menu.HistoryMenu - 4. Exit
+ 23:39:10 [main] INFO  b.t.c.aspect.MenuLoggingAspect - ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 23:39:10 [main] INFO  b.t.c.aspect.MenuLoggingAspect - Enter option:
+INPUT 23:39:12 [main] INFO  b.t.c.aspect.MenuLoggingAspect - User input: 3
+ 23:39:12 [main] INFO  b.t.c.aspect.MenuLoggingAspect - ~~~~~~~~~~~~~~~~~~~CALCULATOR~~~~~~~~~~~~~~~~~~~
+ 23:39:12 [main] INFO  b.t.calculator.view.menu.MainMenu - 1. Calculate
+ 23:39:12 [main] INFO  b.t.calculator.view.menu.MainMenu - 2. History
+ 23:39:12 [main] INFO  b.t.calculator.view.menu.MainMenu - 3. Exit
+ 23:39:12 [main] INFO  b.t.c.aspect.MenuLoggingAspect - ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 23:39:12 [main] INFO  b.t.c.aspect.MenuLoggingAspect - Enter option:
+INPUT 23:39:15 [main] INFO  b.t.c.aspect.MenuLoggingAspect - User input: 3
+ 23:39:15 [main] INFO  b.t.c.aspect.MenuLoggingAspect - See you later!
